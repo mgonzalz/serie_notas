@@ -5,7 +5,9 @@
 - Integrantes: Lidia Velicia (@lidia-veli); Ana García (@anagarciasaiz); Lucia Mielgo (@lmiel); María González (@mgonzalz)</br>
 
 ## Repositorio
-
+- series_notas: Archivo .ipynb que contiene la resolución del ejercicio.
+- ayuda: Carpeta con los archivos del ejercicio.
+- requierements.txt: Lista de dependencias de software del ejercicio.
 ## Enunciado
 
 Vamos a utilizar un caso práctico que se usa muchas veces en la presentación de las nociones básicas de estadísticas: la descripción y el análisis de una serie de notas que ha obtenido un estudiante. Este caso práctico es sencillo y todo el mundo se siente implicado porque se basa en nuestra experiencia. Además, nos permitirá entender las nociones necesarias para la comprensión de datos que también son aplicables a los casos más complejos que vamos a tratar en los capítulos siguientes.</br>
